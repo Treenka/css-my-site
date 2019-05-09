@@ -106,15 +106,15 @@ wrap text around images
 }
 
 .code-img {
-  width: 25%;
+  width: 6rem;
   float: left;
   margin-right: 1.875rem;
 }
 
 .yarn-img {
-  width: 25%;
-  float: right;
-  margin-left: 1.875rem;
+  width: 7rem;
+  float: left;
+  margin-right: 1.875rem;
 }
 
 /*******GET IN TOUCH*******/
